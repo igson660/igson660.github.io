@@ -1,0 +1,44 @@
+#cabeçalho{
+    color: lightpink;
+    padding-left: 35%;
+    font-style: italic;
+    font-size: 30px;
+    position: fixed;
+    margin-top: 0%;
+}
+#nome{    
+    color: lightcyan;
+    background-image: url("plano\ de\ fundo.jpg");
+    background-position:20% 50000%;
+    background-size: cover;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: -7px;
+    padding: 20% 20% 35% 35%
+}
+#sobre{
+    background-color: mediumturquoise;
+
+}
+.perfil{
+    margin-left: 3%;
+    margin-top: 1%;
+    width: 45%;
+    display: inline-block;
+}
+#descri{
+    font-weight: 200%;
+    font-size: 200%;
+    font-style: italic;
+    font-family: cursive;
+    padding-left: 5%;
+}
+#photo{
+    border-radius: 50%;
+    padding-left: 5%;
+}
+#descri_photo{
+    margin-left: 60%;
+    margin-top: -3%;
+    font-style: italic;
+}
